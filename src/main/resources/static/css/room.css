@@ -1,0 +1,21 @@
+#off {
+    margin-left: 500px;
+    font-size: 30px;
+    margin-bottom: 30px;
+    color: red;
+}
+#on {
+    margin-left: 500px;
+    font-size: 30px;
+    margin-bottom: 30px;
+    color: green;
+}
+#button {
+    margin-left: 540px;
+    font-size: 20px;
+}
+#error {
+    margin-left: 500px;
+    font-size: 30px;
+    color: red;
+}
